@@ -1,0 +1,12 @@
+{
+    "name": "tilemill-easey",
+    "description": "Smooth zooming and panning with Easey in TileMill.",
+    "version": "0.0.1",
+    "engines": {"tilemill":"0.9.x"},
+    "keywords": ["tilemill"],
+    "license": "BSD",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/aibram/tilemill-easey.git"
+    }
+}
